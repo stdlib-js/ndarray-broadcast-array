@@ -41,11 +41,17 @@
     "@stdlib/assert-is-collection": "^0.1.0",
     "@stdlib/assert-is-ndarray-like": "^0.1.0",
     "@stdlib/assert-is-nonnegative-integer": "^0.1.0",
+    "@stdlib/ndarray-data-buffer": "github:stdlib-js/ndarray-data-buffer#main",
+    "@stdlib/ndarray-dtype": "github:stdlib-js/ndarray-dtype#main",
+    "@stdlib/ndarray-offset": "github:stdlib-js/ndarray-offset#main",
+    "@stdlib/ndarray-order": "github:stdlib-js/ndarray-order#main",
+    "@stdlib/ndarray-shape": "github:stdlib-js/ndarray-shape#main",
+    "@stdlib/ndarray-strides": "github:stdlib-js/ndarray-strides#main",
     "@stdlib/string-format": "^0.1.1",
     "@stdlib/types": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/array-float64": "^0.1.0",
+    "@stdlib/array-float64": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
     "@stdlib/ndarray-array": "^0.1.0",
     "@stdlib/ndarray-base-assert-is-read-only": "^0.1.1",
