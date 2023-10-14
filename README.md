@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-broadcast-array@esm/index.mjs';
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-broadcast-array@v0.1.0-esm/index.mjs';
 ```
 
 #### broadcastArray( x, shape )
@@ -106,7 +106,7 @@ var y = broadcastArray( x, [ 2, 2, 2 ] );
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@esm/index.mjs';
 import numel from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-numel@esm/index.mjs';
 import ind2sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ind2sub@esm/index.mjs';
-import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-broadcast-array@esm/index.mjs';
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-broadcast-array@v0.1.0-esm/index.mjs';
 
 // Create a 2x2 array:
 var x = array( [ [ 1, 2 ], [ 3, 4 ] ] );
