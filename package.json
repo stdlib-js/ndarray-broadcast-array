@@ -39,7 +39,7 @@
   "dependencies": {
     "@stdlib/array-base-copy-indexed": "^0.2.3",
     "@stdlib/assert-is-collection": "^0.2.3",
-    "@stdlib/assert-is-ndarray-like": "^0.2.2",
+    "@stdlib/assert-is-ndarray-like": "^0.2.3",
     "@stdlib/assert-is-nonnegative-integer": "^0.2.3",
     "@stdlib/ndarray-data-buffer": "^0.2.3",
     "@stdlib/ndarray-dtype": "^0.2.3",
@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.3",
-    "@stdlib/ndarray-array": "^0.2.2",
+    "@stdlib/ndarray-array": "^0.2.3",
     "@stdlib/ndarray-base-assert-is-read-only": "^0.2.3",
     "@stdlib/ndarray-base-ctor": "^0.3.1",
     "@stdlib/ndarray-base-numel": "^0.2.3",
